@@ -1,0 +1,5 @@
+# tokengenerationbyJWT
+
+POST: http://localhost:2021/authenticate
+
+Response:  eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJwcmFkZWVwMTk5MiIsImV4cCI6MTU5MDQ2MjkyMywiaWF0IjoxNTkwNDI2OTIzfQ.VipfM81BGquOdGAANqmmVehOvBnJv6EkBSJc1jdU81Y
